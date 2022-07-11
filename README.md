@@ -19,9 +19,9 @@ The model is trained on 2 datasets, namely DRIVE and STARE.
 
 2.STARE Dataset:The dataset was published in the paper by Hoover et al. in 2000. Thereare 20 images in the dataset out of which 10 have lesions. The resolution ofthe image is 605*700.
  
-<a href="https://drive.google.com/drive/folders/1Xro6bIYCs2cTJ3f3pbIwfkZ_v9IFE1_w">Test Dataset</a>
+<a href="https://drive.google.com/drive/folders/1XwSii_o6JB2E1YqW4Gufv7JANefhPLxF?usp=sharing">Test Dataset</a>
 
-<a href="https://drive.google.com/drive/folders/1ejepIrzxspXx43qIBPKnxmWy_JVyuQbw">Train Dataset</a>
+<a href="https://drive.google.com/drive/folders/1hyyoPjl7hAi1_6iflWoc-ZIEixRkQ56e?usp=sharing">Train Dataset</a>
 
 # Preprocessing Dataset
 The images in the dataset are passed through a series of functions to enhance thequality of the image. By following these steps, the model can be trained quickly.The preprocessing techniques are
